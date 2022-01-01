@@ -1,0 +1,21 @@
+body {
+  background-color: #D382F0;
+  font-family: sans-serif;
+  padding-left: 50px;
+}
+
+h1 {
+  color: #3C114B;
+}
+
+ul {
+  color: green;
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: green;
+}
